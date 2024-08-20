@@ -58,3 +58,12 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 4.	How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
+
+
+<img width="727" alt="s1" src="https://github.com/user-attachments/assets/2c24bf0a-d162-4798-98de-ffe6f6feee57">
+<img width="764" alt="s2" src="https://github.com/user-attachments/assets/9bfee70c-2c8f-4e83-bf9a-9c75ee01e765">
+<img width="732" alt="s3" src="https://github.com/user-attachments/assets/c5779d3b-a823-454c-b463-f731213f044e">
+<img width="762" alt="s4" src="https://github.com/user-attachments/assets/7e4b2d8f-d3d9-4eb9-9fad-94696522d9de">
+<img width="738" alt="s5" src="https://github.com/user-attachments/assets/38b6ac3d-5993-40f0-9c54-7a90804404a2">
+
+
